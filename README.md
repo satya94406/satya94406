@@ -8,10 +8,11 @@
 - 🤝 Seeking internship opportunities to apply technical skills
 
 ## 🛠️ Skills
-- **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
-- **Frontend**: ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+- **Languages**:  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
+- **Frontend**: ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=react-router&logoColor=white)
+- **Backened**: ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
 - **Databases**: ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ## 🌱 Currently Learning
 - Advanced Data Structures and Algorithms in C++
