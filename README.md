@@ -22,6 +22,10 @@
 ## 📊 GitHub Stats
 ![Satya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satya94406&show_icons=true&theme=tokyonight)
 
+## 📌 Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satya94406&layout=compact&theme=radical)
+
+
 ## 🏆 Achievements & Certifications
 - **Data Structures and Algorithms in C++**: Certification of Appreciation by Geek Room 
 
