@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 B.Tech student in Information Technology at Maharaja Surajmal Institute of Technology (MSIT)
-- 🌐 Web Developer focused on Frontend Development with React.js and backened as Node.js
+- 🌐 Web Developer focused on Frontend Development with React.js, exploring Backend Development with Node.js.
 - 💻 Member of Microsoft Chapter Student (MSC) society and Geek Room (DSA Department)
 - 📚 Currently studying advanced Data Structures and Algorithms (DSA) in C++
 - 🤝 Seeking internship opportunities to apply technical skills
