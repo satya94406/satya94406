@@ -8,9 +8,8 @@
 - 🤝 Seeking internship opportunities to apply technical skills
 
 ## 🛠️ Skills
-- **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
 - **Frontend**: ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
-- **Backend**: ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 - **Databases**: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 - **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 
