@@ -10,8 +10,8 @@
 ## 🛠️ Skills
 - **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
 - **Frontend**: ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
-- **Databases**: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+- **Databases**: ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 
 ## 🌱 Currently Learning
 - Advanced Data Structures and Algorithms in C++
@@ -19,7 +19,7 @@
 - Backend Web Development
 
 ## 📊 GitHub Stats
-![Damanpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=damanpreet2005&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
+![Satya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satya94406&show_icons=true&theme=tokyonight)
 
 ## 🏆 Achievements & Certifications
 - **Data Structures and Algorithms in C++**: Certification of Appreciation by Geek Room 
