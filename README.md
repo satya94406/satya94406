@@ -37,6 +37,7 @@
 ## 🌐 Socials
 - **Twitter**: [Twitter](https://x.com/TripathiSa12443?t=gtVkG6oOMB8S1baj4Z7PZw&s=09)
 - **LeetCode**: [LeetCode Profile](https://leetcode.com/u/satya960/)
+- **GeeksforGeeks**: [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/satya96z4lp/)
 
 ## ✨ Fun Facts
 - Love building responsive web applications and solving coding challenges
